@@ -21,7 +21,7 @@ You will also need to create with psql a database called `techtask`.
 
 ### **Start the Server**
 
-To start the server use the following commands:
+To start the server, go to the `API` folder and use the following commands:
 
 #### `npm install`
 
@@ -45,7 +45,7 @@ __IMPORTANT__: If you changed the port of the server, make sure you write the sa
 
 ### **Start the App**
 
-To start the App use the following commands:
+To start the App, go to the `front` folder and use the following commands:
 
 #### `npm install`
 
@@ -85,7 +85,7 @@ También necesitaras crear con psql una base de datos llamada `techtask`.
 
 ### **Iniciar el servidor**
 
-Para iniciar el servidor usa los siguientes comandos:
+Para iniciar el servidor, ve a la carpeta `API` y usa los siguientes comandos:
 
 #### `npm install`
 
@@ -109,7 +109,7 @@ __IMPORTANTE__: Si cambiaste el puerto del servidor, asegurate de escribir el mi
 
 ### **Iniciar la aplicación**
 
-Para iniciar la aplicación usa los siguientes comandos:
+Para iniciar la aplicación, ve a la carpeta `front` usa los siguientes comandos:
 
 #### `npm install`
 
